@@ -1,9 +1,9 @@
-## Chris.M [Chrint4]
+## Chrint4
 
-# Second year computer science student at University of Liverpool w/ Year in Industry.
+Second year computer science student at University of Liverpool w/ Year in Industry.
 
 
-## Tech Stack:
+### Tech Stack:
 
 - C++
 - Java
