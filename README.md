@@ -20,7 +20,7 @@ I'm a final-year Computer Science BSc student at the University of Liverpool, pa
 * **Scripting:** Built a YouTube Music Scraper using Python.
 
 ### GitHub Stats
-[![Chrint4's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrint4)](https://github.com/anuraghazra/github-readme-stats)
+[![Chrint4's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrint4)]
 
 
 Whether it's discussing Flutter development, game jams, or the best way to manage a herd, I'm always open to a chat. 
