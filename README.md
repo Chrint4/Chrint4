@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+Undergrad;Mobile+App+Developer;Dairy+Farmer+Turned+Coder!" alt="Typing SVG" />
 </div>
 
-I'm a final-year Computer Science BSc student at the University of Liverpool, passionate about building impactful, practical software solutions. I bring a unique perspective to my code—combining technical proficiency in mobile development with a strong work ethic forged through a decade of experience as a dairy farmer!
+I'm a final-year Computer Science BSc student at the University of Liverpool, passionate about building impactful, practical software solutions. I bring a unique perspective to my code - combining technical proficiency in mobile development with a strong work ethic forged through a decade of experience as a dairy farmer!
 
 ### Tech Stack & Tools 
 <p align="center">
@@ -25,4 +25,4 @@ I'm a final-year Computer Science BSc student at the University of Liverpool, pa
 
 Whether it's discussing Flutter development, game jams, or the best way to manage a herd, I'm always open to a chat. 
 * **LinkedIn:** [christopher-morley2004](https://linkedin.com/in/christopher-morley2004)
-* **Itch.io** [chrint4](https://chrint4.itch.io/)
+* **Itch.io:** [chrint4](https://chrint4.itch.io/)
